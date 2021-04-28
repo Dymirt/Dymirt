@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dymirt 
-- 👀 I’m interested in Python-based projects, web, and cross-platform applications.
-- 🌱 I’m currently learning Artificial Intelligence with Python
-- 💞️ I’m looking to collaborate on small projects.
+- 👀 I’m interested in Python-based projects, web, and cross-platform applications. 
+- 🌱 I’m currently learning Web Programming with Python and JavaScript
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : kolidadmytro@gmail.com
-
