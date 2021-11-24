@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : kolidadmytro@gmail.com
 
-<div style="display:grid;">
-    <img style="justify-self: center;" src="https://github-readme-stats.vercel.app/api?username=Dymirt&&show_icons=true&title_color=ffffff&icon_color=F5BF4F&text_color=daf7dc&bg_color=151722" height="70%">
-    <img style="justify-self: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dymirt&layout=compact&bg_color=151722&text_color=daf7dc&title_color=ffffff&hide_title=true">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Dymirt&&show_icons=true&title_color=ffffff&icon_color=F5BF4F&text_color=daf7dc&bg_color=151722">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dymirt&layout=compact&bg_color=151722&text_color=daf7dc&title_color=ffffff">
