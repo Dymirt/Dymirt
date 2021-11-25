@@ -1,9 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I’m @Dymirt 
-- 👀 I’m interested in Python-based projects, web, and cross-platform applications. 
-- 🌱 I’m currently learning Web Programming with Python and JavaScript
+- 👀 I’m interested in Python-based projects and web applications. 
+- 🌱 I’m currently learning Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on projects.
 ## Get in touch 📫 
 - kolidadmytro@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dmytro-kolida/)
+- [Challenge me on Chess ♟️](https://www.chess.com/member/dimitrk)
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
     <br>
@@ -20,6 +22,6 @@
 </p>
 <h2 align="center">GitHub Stats </h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dymirt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0F1116&count_private=true&hide=shell&"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dymirt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F5BF4F&bg_color=0F1116"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dymirt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0F1116&count_private=true&hide=shell&" height="205"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dymirt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F5BF4F&bg_color=0F1116" height="205"/>
 </p>
