@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I’m @Dymirt 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I’m Dmytro
 - 👀 I’m interested in Python-based projects and web applications. 
 - 🌱 I’m currently learning Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on projects.
