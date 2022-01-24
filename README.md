@@ -18,7 +18,9 @@
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JSON" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicorn" height="55"/>      
+    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicorn" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="gunicorn" height="55"/>
+
 </p>
 <h2 align="center">GitHub Stats </h2>
 <p align="center">
