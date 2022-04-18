@@ -30,13 +30,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="55"/>
 
 </p>
-<h2 align="center">GitHub Stats </h2>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dymirt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0F1116&count_private=true" height="205"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Dymirt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F5BF4F&bg_color=0F1116" height="205"/>
 </p>
 
-## CERTIFICATES
+<h2 align="center">Certificates</h2>
 <a href="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter" target='_blank'>
     <p align="center">Harvard University: Introduction to Computer Science</p>
     <p align="center" width="100%">
