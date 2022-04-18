@@ -37,4 +37,4 @@
 </p>
 
 ## CERTIFICATES
-<img src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png" width="25px">
+<img src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png">
