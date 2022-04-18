@@ -37,9 +37,7 @@
 </p>
 
 ## CERTIFICATES
-<p align="center">
-    <a align="center" target="_blank" href='https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter'>
-        <p align="center">Harvard University: Introduction to Computer Science</p>
-        <img align="center" src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png" width='50%' alt='Harvard University: Introduction to Computer Science'>
-    </a>
+<p align="center">(https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter)
+    <p>Harvard University: Introduction to Computer Science</p>
+    <img align="center" src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png" width='50%' alt='Harvard University: Introduction to Computer Science'>
 </p>
