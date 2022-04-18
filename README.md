@@ -37,4 +37,6 @@
 </p>
 
 ## CERTIFICATES
-<img src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png">
+<a href='https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter'>
+<img src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png" height="205" alt='Harvard University: Introduction to Computer Science'>
+</a>
