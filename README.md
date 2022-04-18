@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I’m Dmytro
-- 👀 I’m interested in Python-based projects and web applications. 
-- 🌱 I’m currently learning Artificial Intelligence with Python
+- 👀 I'm looking for a job as Software Developer because this position perfectly matches my strengths of character such as long-term dedication and perseverance.
+- 🌱 Meanwhile, taking courses on AI and Web Programming.
 - 💞️ I’m looking to collaborate on projects.
 
 ## LANGUAGES SPOKEN
@@ -35,3 +35,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dymirt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0F1116&count_private=true" height="205"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Dymirt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F5BF4F&bg_color=0F1116" height="205"/>
 </p>
+
+## CERTIFICATES
+<img src="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter" width="25px">
