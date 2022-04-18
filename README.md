@@ -2,10 +2,17 @@
 - 👀 I’m interested in Python-based projects and web applications. 
 - 🌱 I’m currently learning Artificial Intelligence with Python
 - 💞️ I’m looking to collaborate on projects.
+
+## LANGUAGES SPOKEN
+- Polish — professional
+- English — conversational
+- Ukrainian — mother tongue
+
 ## Get in touch 📫 
 - kolidadmytro@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dmytro-kolida/)
 - [Challenge me on Chess ♟️](https://www.chess.com/member/dimitrk)
+
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
     <br>
@@ -20,7 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JSON" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicorn" height="55"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="gunicorn" height="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="55"/>
 
 </p>
 <h2 align="center">GitHub Stats </h2>
