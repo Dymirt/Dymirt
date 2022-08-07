@@ -46,3 +46,11 @@
              alt='Harvard University: Introduction to Computer Science'>
     </p>
 </a>
+
+<h2 align="center">Codewars</h2>
+    <p align="center" width="100%">
+        <img align="center"
+             src="https://www.codewars.com/users/Dymirt/badges/large"
+             width="50%"
+             alt='Codewars'>
+    </p>
