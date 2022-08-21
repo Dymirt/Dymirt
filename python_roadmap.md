@@ -40,8 +40,8 @@
 </h2>
 <ul>
 <li>Basic Bash Commands</li>
-<li> [x] Git Basics</li>
-<li> [x]GitHub Basics</li>
+<li>[x] Git Basics</li>
+<li>[x] GitHub Basics</li>
 <li>Source Control</li>
 </ul>
 
