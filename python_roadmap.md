@@ -11,7 +11,7 @@
         <li>Vim</li>
         <li>VSCode</li>
         <li>Sublime Text</li>
-        <li>PyCharm</li>
+        <li> [x] PyCharm</li>
         <li>Atom</li>
         <li>Juypter Notebook</li>
         <li>Google Colab</li>
@@ -21,18 +21,18 @@
 </li>
 <li>How Python Works</li>
 <li>Python Interpreter</li>
-<li>Running Python Code</li>
+<li> [x] Running Python Code</li>
 <li>Data Types and their Operations and Use</li>
 <li>Numbers, Operators, Operator Precedence</li>
-<li>Variables</li>
+<li> [x] Variables</li>
 <li>Type Conversion</li>
-<li>Indentation</li>
-<li>Logical Operators</li>
-<li>Conditionals - If, Else, Else if, Truthy, Falsey</li>
-<li>Loops: for, while, loop control statements (break, continue, etc)</li>
-<li>Functions: scope, parameters, arguments, return</li>
+<li> [x] Indentation</li>
+<li> [x] Logical Operators</li>
+<li> [x] Conditionals - If, Else, Else if, Truthy, Falsey</li>
+<li> [x] Loops: for, while, loop control statements (break, continue, etc)</li>
+<li> [x] Functions: scope, parameters, arguments, return</li>
 <li>Built-in Functions</li>
-<li>Commenting: single-line, multi-line, docstrings</li>
+<li> [x] Commenting: single-line, multi-line, docstrings</li>
 </ul>
 
 <h2>
@@ -41,7 +41,7 @@
 <ul>
 <li>Basic Bash Commands</li>
 <li> [x] Git Basics</li>
-<li>GitHub Basics</li>
+<li> [x]GitHub Basics</li>
 <li>Source Control</li>
 </ul>
 
