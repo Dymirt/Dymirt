@@ -6,7 +6,7 @@
 </h2>
 
 <ul>
-    <li>Code Editors (choose one)
+    <li>Code Editors (choose one)</li>
     <ul>
         <li>Vim</li>
         <li>VSCode</li>
