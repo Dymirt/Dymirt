@@ -23,9 +23,6 @@
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JSON" height="55"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="55"/>
 
 </p>
 <h2 align="center">GitHub Stats</h2>
