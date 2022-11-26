@@ -3,15 +3,9 @@
 - 🌱 Meanwhile, taking courses on AI and Web Programming.
 - 💞️ I’m looking to collaborate on projects.
 
-## LANGUAGES SPOKEN
-- Polish — professional
-- English — conversational
-- Ukrainian — mother tongue
-
 ## Get in touch 📫 
 - kolidadmytro@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dmytro-kolida/)
-- [Challenge me on Chess ♟️](https://www.chess.com/member/dimitrk)
 
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
