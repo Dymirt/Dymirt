@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I’m Dmytro
 - 👀 I'm looking for a job as Software Developer because this position perfectly matches my strengths of character such as long-term dedication and perseverance.
-- 🌱 Meanwhile, taking courses on AI and Web Programming.
+- 🌱 Meanwhile, taking courses on AI, ML and Web Programming.
 - 💞️ I’m looking to collaborate on projects.
 
 ## Get in touch 📫 
