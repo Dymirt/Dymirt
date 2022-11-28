@@ -9,7 +9,7 @@
     <li>Code Editors (choose one)</li>
     <ul>
         <li>Vim</li>
-        <li>VSCode</li>
+        <li> [x] VSCode</li>
         <li>Sublime Text</li>
         <li> [x] PyCharm</li>
         <li>Atom</li>
@@ -22,16 +22,16 @@
 <li>How Python Works</li>
 <li>Python Interpreter</li>
 <li> [x] Running Python Code</li>
-<li>Data Types and their Operations and Use</li>
-<li>Numbers, Operators, Operator Precedence</li>
+<li> [x] Data Types and their Operations and Use</li>
+<li> [x] Numbers, Operators, Operator Precedence</li>
 <li> [x] Variables</li>
-<li>Type Conversion</li>
+<li> [x] Type Conversion</li>
 <li> [x] Indentation</li>
 <li> [x] Logical Operators</li>
 <li> [x] Conditionals - If, Else, Else if, Truthy, Falsey</li>
 <li> [x] Loops: for, while, loop control statements (break, continue, etc)</li>
 <li> [x] Functions: scope, parameters, arguments, return</li>
-<li>Built-in Functions</li>
+<li> [x] Built-in Functions</li>
 <li> [x] Commenting: single-line, multi-line, docstrings</li>
 </ul>
 
@@ -49,26 +49,26 @@
   Advanced Python 🐍
 </h2>
 <ul>
-<li>OOP</li>
-<li>Classes</li>
-<li>Dunder</li>
-<li>Methods</li>
-<li>Inheritance</li>
-<li>Decorators</li>
-<li>Functional Programming</li>
-<li>Lambda Functions</li>
-<li>Map, filter, zip, reduce</li>
-<li>Errors</li>
-<li>Error Handling: try, except</li>
-<li>File I/O</li>
+<li> [x] OOP</li>
+<li> [x] Classes</li>
+<li> [x] Dunder</li>
+<li> [x] Methods</li>
+<li> [x] Inheritance</li>
+<li> [x] Decorators</li>
+<li> [x] Functional Programming</li>
+<li> [x] Lambda Functions</li>
+<li> [x] Map, filter, zip, reduce</li>
+<li> [x] Errors</li>
+<li> [x] Error Handling: try, except</li>
+<li> [x] File I/O</li>
 <li>Regex</li>
 <li>Testing, unittest</li>
-<li>Import</li>
-<li>Modules</li>
-<li>Packages</li>
-<li>Pip</li>
-<li>Virtual Environments</li>
-<li>Debugging</li>
+<li> [x] Import</li>
+<li> [x] Modules</li>
+<li> [x] Packages</li>
+<li> [x] Pip</li>
+<li> [x] Virtual Environments</li>
+<li> [x] Debugging</li>
 </ul>
 
 <h2>
@@ -89,7 +89,7 @@
 <li>Time Complexity</li>
 <li>Space Complexity</li>
 <li>Big O Notation</li>
-<li>Data Structures</li>
+<li> [x] Data Structures</li>
 <li>Algorithms</li>
 </ul>
 
@@ -97,8 +97,8 @@
   Web Scrapping 🗄️
 </h2>
 <ul>
-<li>Beautiful soup</li>
-<li>Selenium</li>
+<li> [x] Beautiful soup</li>
+<li> [x] Selenium</li>
 <li>Scrapy</li>
 </ul>
 
@@ -115,7 +115,7 @@
   Web Development 🌐
 </h2>
 <ul>
-<li>Django</li>
+<li> [x] Django</li>
 <li>Flask</li>
 <li>Zappa</li>
 <li>Dash</li>
