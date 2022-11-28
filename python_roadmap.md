@@ -75,7 +75,7 @@
   Popular Libraries 📙
 </h2>
 <ul>
-<li>Tkinter</li>
+<li>[x] Tkinter</li>
 <li>Requests</li>
 <li>Pillow</li>
 <li>PyQT</li>
