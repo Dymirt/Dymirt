@@ -61,7 +61,7 @@
 <li> [x] Errors</li>
 <li> [x] Error Handling: try, except</li>
 <li> [x] File I/O</li>
-<li>Regex</li>
+<li> [x] Regex</li>
 <li>Testing, unittest</li>
 <li> [x] Import</li>
 <li> [x] Modules</li>
