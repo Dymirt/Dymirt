@@ -36,6 +36,19 @@
     </p>
 </a>
 
+
+<h2 align="center">Certificates</h2>
+<a href="[https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter](https://www.hackerrank.com/certificates/iframe/992c7a64ef2b
+)" target='_blank'>
+    <p align="center">HackerRank Certificates</p>
+    <p align="center" width="100%">
+        <img align="center"
+             src="[https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.png](https://www.hackerrank.com/certificates/iframe/992c7a64ef2b)"
+             width="50%"
+             alt='HackerRank Certificates'>
+    </p>
+</a>
+
 <h2 align="center">Codewars</h2>
     <p align="center" width="100%">
         <img align="center"
