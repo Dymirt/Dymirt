@@ -40,7 +40,7 @@
     <p align="center">HackerRank Certificates</p>
     <p align="center" width="100%">
         <iframe align="center"
-             src="[https://www.hackerrank.com/certificates/iframe/992c7a64ef2b](https://www.hackerrank.com/certificates/iframe/992c7a64ef2b)"
+             src="https://www.hackerrank.com/certificates/iframe/992c7a64ef2b"
              width="50%"
              alt='HackerRank Certificates'>
             </iframe>
