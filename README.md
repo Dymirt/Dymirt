@@ -39,10 +39,11 @@
 <a href="https://www.hackerrank.com/certificates/iframe/992c7a64ef2b" target='_blank'>
     <p align="center">HackerRank Certificates</p>
     <p align="center" width="100%">
-        <img align="center"
-             src="https://www.hackerrank.com/certificates/iframe/992c7a64ef2b"
+        <iframe align="center"
+             src="[https://www.hackerrank.com/certificates/iframe/992c7a64ef2b](https://www.hackerrank.com/certificates/iframe/992c7a64ef2b)"
              width="50%"
              alt='HackerRank Certificates'>
+            </iframe>
     </p>
 </a>
 
