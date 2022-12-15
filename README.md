@@ -43,8 +43,7 @@
         <img align="center"
              src="blob:null/31f78bd3-557d-431e-87d0-bfe4110a853a"
              width="50%"
-             title='HackerRank Certificates'>
-        
+             alt='HackerRank Certificates'>     
     </p>
 </a>
 
