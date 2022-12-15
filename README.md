@@ -34,6 +34,7 @@
             grid-gap: 2vw;
             width: 100%;
             height: 50vh;
+            background-color: #8cffa0;
             padding: 1vw;">
     <img style="object-fit: contain;"
         src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
