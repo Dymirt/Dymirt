@@ -32,11 +32,13 @@
     <img style="object-fit: contain;"
         src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
         height='280px'
-        alt='Harvard University: Introduction to Computer Science'>
+        alt='Harvard University: Introduction to Computer Science'
+        title='Harvard University: Introduction to Computer Science'>
     <img style="object-fit: contain;"
         src="img/certificates/HR_certificates_dmytro_kolida.png"
         height='280px'
-        alt='HackerRank Certificates'>     
+        alt='HackerRank Certificates'
+        title='HackerRank Certificates'>     
 </p>
 
 <h2 align="center">Codewars</h2>
