@@ -28,12 +28,20 @@
 
 <h2 align="center">Certificates</h2>
 
-<p align="center" width="40%">
-    <img src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
-        height="200" width="270"
+<p align="center" 
+    style="display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 2vw;
+            width: 100%;
+            height: 50vh;
+            padding: 1vw;">
+    <img style="width: 100%;
+    height: 100%;
+    object-fit: contain;" src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
         alt='Harvard University: Introduction to Computer Science'>
-    <img src="img/certificates/HR_certificates_dmytro_kolida.png"
-        height="200" width="270"
+    <img style="width: 100%;
+    height: 100%;
+    object-fit: contain;" src="img/certificates/HR_certificates_dmytro_kolida.png"
         alt='HackerRank Certificates'>     
 </p>
 
