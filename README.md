@@ -28,30 +28,19 @@
 
 <h2 align="center">Certificates</h2>
 
-<a href="https://certificates.cs50.io/e3156b0b-3077-4200-a1b1-9ab3191bf047.pdf?size=letter" target='_blank'>
-    <p align="center">Harvard University: Introduction to Computer Science</p>
-    <p align="center" width="50%">
-        <img align="center"
-             src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
-             width="50%"
-             alt='Harvard University: Introduction to Computer Science'>
-    </p>
-</a>
-
-<a href="https://www.hackerrank.com/certificates/iframe/992c7a64ef2b" target='_blank'>
-    <p align="center">HackerRank Certificates</p>
-    <p align="center" width="50%">
-        <img align="center"
-             src="img/certificates/HR_certificates_dmytro_kolida.png"
-             width="50%"
-             alt='HackerRank Certificates'>     
-    </p>
-</a>
+<p align="center" width="40%">
+    <img src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
+        height="200" width="270"
+        alt='Harvard University: Introduction to Computer Science'>
+    <img src="img/certificates/HR_certificates_dmytro_kolida.png"
+        height="200" width="270"
+        alt='HackerRank Certificates'>     
+</p>
 
 <h2 align="center">Codewars</h2>
     <p align="center" width="100%">
         <img align="center"
              src="https://www.codewars.com/users/Dymirt/badges/large"
-             width="50%"
+             width="40%"
              alt='Codewars'>
     </p>
