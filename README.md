@@ -45,8 +45,9 @@
 </p>
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | <img style="object-fit: contain;"src="img/certificates/HR_certificates_dmytro_kolida.png"alt='HackerRank Certificates'> |
-| Paragraph   | Text        |
+|     <img style="object-fit: contain;"
+        src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
+        alt='Harvard University: Introduction to Computer Science'>      | <img style="object-fit: contain;"src="img/certificates/HR_certificates_dmytro_kolida.png"alt='HackerRank Certificates'> |
 
 <h2 align="center">Codewars</h2>
     <p align="center" width="100%">
