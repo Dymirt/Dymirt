@@ -43,6 +43,10 @@
         src="img/certificates/HR_certificates_dmytro_kolida.png"
         alt='HackerRank Certificates'>     
 </p>
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | <img style="object-fit: contain;"src="img/certificates/HR_certificates_dmytro_kolida.png"alt='HackerRank Certificates'> |
+| Paragraph   | Text        |
 
 <h2 align="center">Codewars</h2>
     <p align="center" width="100%">
