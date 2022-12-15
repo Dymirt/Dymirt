@@ -41,7 +41,7 @@
         title='HackerRank Certificates'>     
 </p>
 
-<h2 align="center">Codewars</h2>
+<h2 align="center">Codewars Rank</h2>
     <p align="center" width="100%">
         <img align="center"
              src="https://www.codewars.com/users/Dymirt/badges/large"
