@@ -36,11 +36,9 @@
             height: 50vh;
             padding: 1vw;">
     <img style="width: 100%;
-    height: 100%;
     object-fit: contain;" src="img/certificates/CS50x_certificate_Dmytro_Kolida.png"
         alt='Harvard University: Introduction to Computer Science'>
     <img style="width: 100%;
-    height: 100%;
     object-fit: contain;" src="img/certificates/HR_certificates_dmytro_kolida.png"
         alt='HackerRank Certificates'>     
 </p>
