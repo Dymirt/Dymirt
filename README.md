@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" height="55"/>
     <br>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="55"/>
