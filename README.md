@@ -12,8 +12,7 @@
     <br>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/javascript/php-icon.svg" alt="PHP" height="55"/>
-
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="55"/>
     <br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="55"/>
