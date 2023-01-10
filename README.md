@@ -10,8 +10,8 @@
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
     <br>
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" height="55"/>
     <br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="55"/>
