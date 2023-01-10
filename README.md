@@ -16,10 +16,8 @@
     <br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="55"/>
-
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML" height="55"/>
 </p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
