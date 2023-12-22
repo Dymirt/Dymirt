@@ -1,7 +1,30 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I’m Dmytro
-- 👀 I'm looking for a job as Full Stack Web Developer using Python and Javascript, because this position perfectly matches my interests and my strengths of character such as long-term dedication and perseverance.
-- 🌱 Meanwhile, taking courses on AI, ML.
-- 💞️ I’m looking to collaborate on projects.
+# Unleashing Creativity in Code: Meet Dmytro Kolida
+
+Greetings, fellow tech enthusiasts! 👋 I'm Dima, a passionate programmer on a journey to explore the boundless world of technology and creativity.
+
+## 🚀 The Code Explorer
+
+From the early days of my programming journey, I've been fascinated by the power of coding to create, innovate, and solve real-world problems. My expertise lies in Python, Django, JavaScript, HTML, CSS, CI/CD and more. Whether it's building efficient backends or crafting visually stunning frontends, I thrive on the endless possibilities that coding presents.
+
+## 🎓 Student at 42 Warsaw School
+
+Currently, I'm happily navigating the challenges and triumphs of being a student at 42 Warsaw School. It's not just a school; it's a dynamic community where collaboration and exploration are the driving forces. The peer-to-peer learning model at 42 has not only sharpened my technical skills but also ignited a passion for collaboration and teamwork.
+
+## 🌐 Beyond the Code
+
+While I love diving into lines of code, there's more to me than just syntax. I'm an avid learner, constantly devouring the latest tech trends, and a believer in the power of automation to make our lives simpler and more efficient.
+
+## 🤝 Let's Collaborate!
+
+One of the most rewarding aspects of this journey is the opportunity to collaborate with like-minded individuals on exciting projects. If you have a project that needs a creative touch, a problem that begs for an elegant solution, or if you're simply passionate about tech, I'd love to connect and explore possibilities together.
+
+## 🌟 Beyond Tomorrow
+
+As I navigate through this ever-evolving tech landscape, I'm excited about the unknown challenges and discoveries that lie ahead. Join me on this adventure, and let's craft a future where code is not just functional but a work of art.
+
+Feel free to reach out, collaborate, or just share your tech musings. Together, let's code the future!
+
+Happy coding! 🚀✨
 
 ## Get in touch 📫 
 - kolidadmytro@gmail.com
