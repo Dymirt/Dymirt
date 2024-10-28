@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://stats-alpha-seven.vercel.app/api/top-langs/?username=Dymirt
-            &layout=donut-vertical
-            &title_color=ffffff
-            &text_color=c9cacc
-            &icon_color=2bbc8a
-            &bg_color=0F1116
-            &exclude_repo=stats,task_manager,Dymirt"
+    <img src="https://stats-alpha-seven.vercel.app/api/top-langs/?username=Dymirt&
+            layout=donut-vertical&
+            title_color=ffffff&
+            text_color=c9cacc&
+            icon_color=2bbc8a&
+            bg_color=0F1116&
+            exclude_repo=stats,task_manager,Dymirt"
         height="350"/>
     <img src="https://stats-alpha-seven.vercel.app/api?username=Dymirt
             &show_icons=true
