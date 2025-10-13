@@ -8,7 +8,7 @@
 ## 💼 About Me
 
 I'm a results-driven full-stack engineer with a solid foundation in **business administration** (8 years) and hands-on experience in **software development** (2+ years).  
-Currently, I lead technology and digital initiatives at **INKASO Hermański**, **Centrum Concept**, and **Marta Banaszek Fashion**, where I bridge the gap between legacy systems and modern tech solutions.
+Currently, I lead technology and digital initiatives at **INKASO Hermański Sp. z o.o.**, **Centrum Concept Sp. z o.o.**, and **Marta Banaszek Fashion**, where I bridge the gap between legacy systems and modern tech solutions.
 
 🔧 I’m passionate about modernizing systems, building scalable applications, and integrating business goals with technical strategies.
 
@@ -40,8 +40,6 @@ Web app for planning the greenest, cleanest routes through Warsaw using live pol
 ---
 
 ## 📫 Let’s Connect!
-
-- [🔗 LinkedIn](https://www.linkedin.com/in/dmytro-kolida/)  
 - 📧 dmytrokolida@gmail.com  
 
 ---
