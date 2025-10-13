@@ -43,7 +43,6 @@ Web app for planning the greenest, cleanest routes through Warsaw using live pol
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/dmytro-kolida/)  
 - 📧 dmytrokolida@gmail.com  
-- ☎️ +48 733 905 342  
 
 ---
 
