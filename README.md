@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Dmytro Kolida
 
 **Full-Stack Engineer | Specializing in PHP Legacy Upgrades & Django Web Apps**  
-**Tech Stack:** PHP 8.4 • Python • Django • JavaScript • SQL • HTML • CSS • Docker • Git
+**Tech Stack:** PHP 5.3 up to 8.4 • Python • Django • FastApi • JavaScript • SQL • Docker • PostgreSQL
 
 ---
 
 ## 💼 About Me
 
-I'm a results-driven full-stack engineer with a solid foundation in **business administration** (8 years) and hands-on experience in **software development** (2+ years).  
+I'm a results-driven full-stack engineer with a solid foundation in **business administration** (8 years) and hands-on experience in **software development** (3+ years).  
 Currently, I lead technology and digital initiatives at **INKASO Hermański Sp. z o.o.**, **Centrum Concept Sp. z o.o.**, and **Marta Banaszek Fashion**, where I bridge the gap between legacy systems and modern tech solutions.
 
 🔧 I’m passionate about modernizing systems, building scalable applications, and integrating business goals with technical strategies.
-
-📚 Currently studying advanced software development and IT architectures at **42 Warsaw** — after passing an intensive 4-week recruitment process.
 
 ---
 
