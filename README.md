@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dmytro Kolida
 
-**Full-Stack Engineer | Specializing in PHP Legacy Upgrades & Django Web Apps & FastApi REST microservices **  
+**Full-Stack Engineer | Specializing in PHP Legacy Upgrades & Django Web Apps & FastApi REST microservices**  
 **Tech Stack:** PHP 5.3 up to 8.4 • Python • Django • FastApi • JavaScript • SQL • Docker • PostgreSQL
 
 ---
