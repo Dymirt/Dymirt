@@ -18,7 +18,7 @@
 
 I design, integrate and operate production systems that connect **applications, data, infrastructure and business processes**.
 
-My work spans the full path from an ambiguous operational need to architecture, implementation, deployment, monitoring and incident resolution. I combine hands-on Python/PHP engineering with Linux/Docker operations and the commercial perspective developed through nine years of e-commerce ownership.
+My work spans the full path from an ambiguous operational need to architecture, implementation, deployment, monitoring and incident resolution. I combine hands-on Python/PHP engineering with Linux/Docker operations and the commercial perspective developed through nearly nine years of e-commerce ownership.
 
 > I turn fragmented processes and legacy systems into reliable production integrations—and stay responsible for what happens after deployment.
 
