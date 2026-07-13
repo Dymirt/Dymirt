@@ -55,9 +55,23 @@ h1, h2, h3 { word-spacing: .11em; }
 .achievement-mark { display: grid; height: 4rem; width: 4rem; place-items: center; border-radius: 999px; border: 1px solid rgba(11,14,19,.55); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
 .achievement .case-kicker { color: rgba(11,14,19,.65); }
 .achievement p:last-child { margin-top: .5rem; color: rgba(11,14,19,.74); }
+.achievement-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem; }
+.achievement-actions > a { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
+.achievement-actions > a:hover { text-decoration: underline; text-underline-offset: .25rem; }
+.certificate-link { display: inline-flex; align-items: center; gap: .55rem; }
+.certificate-link img { width: 2.5rem; height: 3.5rem; border: 1px solid rgba(11,14,19,.25); border-radius: .25rem; object-fit: cover; box-shadow: 0 .35rem 1rem rgba(11,14,19,.18); }
 .about-tile { border-left: 1px solid rgba(213,154,106,.4); padding: .4rem 1.2rem; }
 .about-tile span { display: block; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .65rem; text-transform: uppercase; letter-spacing: .14em; color: #a6b0be; }
 .about-tile strong { display: block; margin-top: .6rem; font-size: .9rem; line-height: 1.5; color: #f1eee8; }
+.credentials-grid { display: grid; gap: 1.25rem; }
+.credential-card { display: grid; grid-template-columns: 7.5rem 1fr; gap: 1.25rem; overflow: hidden; border: 1px solid rgba(255,255,255,.1); border-radius: 1.5rem; background: #121720; padding: 1.25rem; transition: transform .25s ease, border-color .25s ease, background .25s ease; }
+.credential-card:hover { transform: translateY(-3px); border-color: rgba(213,154,106,.3); background: #171d27; }
+.credential-card figure { min-height: 10rem; overflow: hidden; border-radius: 1rem; background: #f1eee8; }
+.credential-card img { width: 100%; height: 100%; object-fit: contain; }
+.credential-card h3 { margin-top: .65rem; font-size: 1.45rem; font-weight: 600; line-height: 1.2; letter-spacing: -.035em; }
+.credential-card .credential-meta { margin-top: .75rem; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .68rem; text-transform: uppercase; letter-spacing: .08em; color: #d59a6a; }
+.credential-card .credential-meta + p { margin-top: 1rem; line-height: 1.6; color: #9aa4b2; }
+.credential-card div > span { display: inline-block; margin-top: 1.25rem; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #d59a6a; }
 .toolkit-section { background: #121720; }
 .tool-grid { display: grid; gap: 0; border-top: 1px solid rgba(255,255,255,.18); }
 .tool-grid div { border-bottom: 1px solid rgba(255,255,255,.18); padding-block: 1.25rem; }
@@ -68,6 +82,6 @@ h1, h2, h3 { word-spacing: .11em; }
 .reveal { opacity: 0; transform: translateY(28px); transition: opacity .75s ease var(--delay, 0ms), transform .75s cubic-bezier(.2,.7,.2,1) var(--delay, 0ms); }
 .reveal.visible { opacity: 1; transform: translateY(0); }
 @media (min-width: 640px) { .section-shell { padding-inline: 2rem; } .metric { padding-inline: 1.5rem; } }
-@media (min-width: 768px) { .section-heading { grid-template-columns: 1fr auto; } .section-heading .eyebrow { grid-column: 1 / -1; } .case-study { grid-template-columns: 7rem 1fr 13rem; padding: 2rem; } .achievement { grid-template-columns: 6rem 1fr auto; padding: 2rem; } .tool-grid div { display: grid; grid-template-columns: 9rem 1fr; align-items: center; } .tool-grid p { margin-top: 0; } }
+@media (min-width: 768px) { .section-heading { grid-template-columns: 1fr auto; } .section-heading .eyebrow { grid-column: 1 / -1; } .case-study { grid-template-columns: 7rem 1fr 13rem; padding: 2rem; } .achievement { grid-template-columns: 6rem 1fr auto; padding: 2rem; } .achievement-actions { justify-content: flex-end; } .credentials-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .credential-card { grid-template-columns: 9rem 1fr; padding: 1.5rem; } .tool-grid div { display: grid; grid-template-columns: 9rem 1fr; align-items: center; } .tool-grid p { margin-top: 0; } }
 @media (min-width: 1024px) { .section-shell { padding: 9rem 3rem; } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; } .reveal { opacity: 1; transform: none; } }

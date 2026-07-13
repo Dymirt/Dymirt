@@ -63,6 +63,17 @@ Repository names, source code, clients, vendors and confidential implementation 
 
 **1st place in the DragonSwap bounty.** A working product delivered under hackathon constraints, demonstrating rapid problem framing, technical decision-making and team execution.
 
+### Warsaw Moss · HumanTech Hack 2024
+
+**3rd place.** An innovation-for-good project delivered with the Warsaw Moss team and recognized at HumanTech Hack 2024.
+
+[View the project](https://github.com/Dymirt/Warsaw_moss) · [View the diploma](assets/humantech-hack-2024-diploma.png)
+
+### Certificates
+
+- [CS50x — Introduction to Computer Science](assets/certificates/cs50x-completion.pdf), Harvard University, 2021
+- [HackYeah 2024 — Certificate of Attendance](assets/certificates/hackyeah-2024-attendance.pdf), 33-hour hackathon, Kraków
+
 ### Public work
 
 - [HackNation Anomaly](https://github.com/Dymirt/hacknationAnomalie) — Python project built in a time-boxed team environment

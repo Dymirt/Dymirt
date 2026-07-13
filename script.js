@@ -36,15 +36,20 @@ const translations = {
     publicText: 'A Python project developed in a time-boxed team environment, showing rapid problem framing, prototyping, and delivery.',
     tagPrototyping: 'Rapid prototyping', tagTeam: 'Team delivery', viewGithub: 'View on GitHub',
     awardTitle: 'CoinSwipe — 1st place in the DragonSwap bounty', awardText: 'Recognized for turning an idea into a working technical solution under hackathon constraints.', awardedProject: 'Awarded project',
+    warsawMossAwardTitle: 'Warsaw Moss — 3rd place', warsawMossAwardText: 'Awarded at HumanTech Hack 2024 for an innovation-for-good project delivered by the Warsaw Moss team.',
+    viewProject: 'View project', viewDiploma: 'View diploma', diplomaAlt: 'HumanTech Hack 2024 third-place diploma for Dmytro Kolida',
     aboutEyebrow: '03 / About', aboutTitle: 'Technical judgment shaped by operating a real business.',
     aboutLead: 'I work where application code, infrastructure, imperfect data, and business reality meet.',
     aboutText1: 'My engineering experience spans Python and PHP applications, APIs, SQL, Linux, Docker, production troubleshooting, and legacy modernization. Nine years of e-commerce ownership taught me to judge technology by operational cost, risk, and outcomes — not novelty.',
     aboutText2: 'I’m at my best when the requirements are ambiguous, several systems have to cooperate, and someone needs to own the result after deployment.',
     howIWork: 'How I work', workProcess: 'Discover → design → deliver → operate', currentFocus: 'Current focus', focusText: 'Reliable cloud integrations & controlled AI automation',
-    toolkitEyebrow: '04 / Toolkit', toolkitTitle: 'Tools in service of outcomes.', toolBuild: 'Build', toolIntegrate: 'Integrate', toolOperate: 'Operate',
+    credentialsEyebrow: '04 / Credentials', credentialsTitle: 'Learning backed by completed work.', credentialsIntro: 'Selected certificates documenting computer-science foundations and participation in intensive engineering events.',
+    completionCertificate: 'Completion certificate', attendanceCertificate: 'Attendance certificate', cs50Text: 'Completed ten problem sets, ten labs, and a final project.', hackyeahText: 'Participated in the two-day, 33-hour hackathon and its engineering challenges.',
+    viewCertificate: 'View certificate', cs50Alt: 'Harvard CS50x completion certificate for Dmytro Kolida', hackyeahAlt: 'HackYeah 2024 certificate of attendance for Dmytro Kolida',
+    toolkitEyebrow: '05 / Toolkit', toolkitTitle: 'Tools in service of outcomes.', toolBuild: 'Build', toolIntegrate: 'Integrate', toolOperate: 'Operate',
     toolOperateList: 'Linux · Docker · Proxmox · CI/CD · Logging · Backups', toolData: 'Data', toolDataList: 'PostgreSQL · MySQL · Redis · Validation · Data mapping',
     toolExpanding: 'Expanding', toolBusiness: 'Business', toolBusinessList: 'Discovery · Architecture · E-commerce · Mentoring · Ownership',
-    contactEyebrow: '05 / Contact', contactTitle: 'Have a difficult system to connect?', copyEmail: 'Copy email',
+    contactEyebrow: '06 / Contact', contactTitle: 'Have a difficult system to connect?', copyEmail: 'Copy email',
     cvSoon: 'CV PDF — coming soon', cvTitle: 'Add the final PDF file to assets/ and update this link',
     footerText: 'Built for clarity, reliability, and the web.', backTop: 'Back to top', emailCopied: 'Email copied',
     openMenu: 'Open menu', closeMenu: 'Close menu', switchLanguage: 'Switch to Polish'
@@ -86,15 +91,20 @@ const translations = {
     publicText: 'Projekt w Pythonie zrealizowany przez zespół w ograniczonym czasie, pokazujący szybkie definiowanie problemu, prototypowanie i dostarczenie rozwiązania.',
     tagPrototyping: 'Szybkie prototypowanie', tagTeam: 'Praca zespołowa', viewGithub: 'Zobacz na GitHubie',
     awardTitle: 'CoinSwipe — 1. miejsce w bounty DragonSwap', awardText: 'Wyróżnienie za przekształcenie pomysłu w działające rozwiązanie techniczne w warunkach hackathonu.', awardedProject: 'Nagrodzony projekt',
+    warsawMossAwardTitle: 'Warsaw Moss — 3. miejsce', warsawMossAwardText: 'Projekt zespołu Warsaw Moss nagrodzony podczas HumanTech Hack 2024 za innowacyjne rozwiązanie służące dobru społecznemu.',
+    viewProject: 'Zobacz projekt', viewDiploma: 'Zobacz dyplom', diplomaAlt: 'Dyplom Dmytra Kolidy za 3. miejsce podczas HumanTech Hack 2024',
     aboutEyebrow: '03 / O mnie', aboutTitle: 'Decyzje techniczne oparte na doświadczeniu w prowadzeniu realnego biznesu.',
     aboutLead: 'Pracuję tam, gdzie spotykają się kod aplikacji, infrastruktura, niedoskonałe dane i realia biznesowe.',
     aboutText1: 'Moje doświadczenie inżynierskie obejmuje aplikacje Python i PHP, API, SQL, Linux, Docker, diagnozowanie problemów produkcyjnych oraz modernizację systemów legacy. Dziewięć lat prowadzenia e-commerce nauczyło mnie oceniać technologię przez pryzmat kosztu operacyjnego, ryzyka i efektów — nie nowości.',
     aboutText2: 'Najlepiej działam, gdy wymagania są niejednoznaczne, kilka systemów musi współpracować, a ktoś powinien wziąć odpowiedzialność za rezultat po wdrożeniu.',
     howIWork: 'Jak pracuję', workProcess: 'Analiza → projekt → wdrożenie → utrzymanie', currentFocus: 'Obecny kierunek', focusText: 'Niezawodne integracje chmurowe i kontrolowana automatyzacja AI',
-    toolkitEyebrow: '04 / Narzędzia', toolkitTitle: 'Narzędzia służą rezultatom.', toolBuild: 'Tworzenie', toolIntegrate: 'Integracje', toolOperate: 'Utrzymanie',
+    credentialsEyebrow: '04 / Certyfikaty', credentialsTitle: 'Nauka potwierdzona wykonaną pracą.', credentialsIntro: 'Wybrane certyfikaty dokumentujące podstawy informatyki oraz udział w intensywnych wydarzeniach inżynierskich.',
+    completionCertificate: 'Certyfikat ukończenia', attendanceCertificate: 'Certyfikat uczestnictwa', cs50Text: 'Ukończyłem dziesięć zestawów problemów, dziesięć laboratoriów i projekt końcowy.', hackyeahText: 'Uczestniczyłem w dwudniowym, 33-godzinnym hackathonie i jego wyzwaniach inżynierskich.',
+    viewCertificate: 'Zobacz certyfikat', cs50Alt: 'Certyfikat ukończenia Harvard CS50x dla Dmytra Kolidy', hackyeahAlt: 'Certyfikat uczestnictwa Dmytra Kolidy w HackYeah 2024',
+    toolkitEyebrow: '05 / Narzędzia', toolkitTitle: 'Narzędzia służą rezultatom.', toolBuild: 'Tworzenie', toolIntegrate: 'Integracje', toolOperate: 'Utrzymanie',
     toolOperateList: 'Linux · Docker · Proxmox · CI/CD · Logi · Kopie zapasowe', toolData: 'Dane', toolDataList: 'PostgreSQL · MySQL · Redis · Walidacja · Mapowanie danych',
     toolExpanding: 'Rozwijam', toolBusiness: 'Biznes', toolBusinessList: 'Analiza potrzeb · Architektura · E-commerce · Mentoring · Odpowiedzialność',
-    contactEyebrow: '05 / Kontakt', contactTitle: 'Masz trudny system do zintegrowania?', copyEmail: 'Kopiuj e-mail',
+    contactEyebrow: '06 / Kontakt', contactTitle: 'Masz trudny system do zintegrowania?', copyEmail: 'Kopiuj e-mail',
     cvSoon: 'CV PDF — wkrótce', cvTitle: 'Dodaj finalny plik PDF do katalogu assets/ i zaktualizuj ten link',
     footerText: 'Zbudowane z myślą o przejrzystości, niezawodności i sieci.', backTop: 'Wróć na górę', emailCopied: 'Adres e-mail skopiowany',
     openMenu: 'Otwórz menu', closeMenu: 'Zamknij menu', switchLanguage: 'Przełącz na język angielski'
@@ -128,6 +138,10 @@ function applyLanguage(language) {
   document.querySelectorAll('[data-i18n-title]').forEach((element) => {
     const value = copy[element.dataset.i18nTitle];
     if (value !== undefined) element.title = value;
+  });
+  document.querySelectorAll('[data-i18n-alt]').forEach((element) => {
+    const value = copy[element.dataset.i18nAlt];
+    if (value !== undefined) element.alt = value;
   });
   document.querySelectorAll('[data-i18n-alt]').forEach((element) => {
     const value = copy[element.dataset.i18nAlt];
