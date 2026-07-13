@@ -1,6 +1,4 @@
 <div align="center">
-  # Dmytro Kolida
-
   ### Solutions & Integration Engineer
 
   **Production integrations · Process automation · Legacy modernization · Reliable systems**
