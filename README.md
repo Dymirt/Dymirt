@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/dmytro-kolida.jpg" width="150" alt="Dmytro Kolida" />
-
   # Dmytro Kolida
 
   ### Solutions & Integration Engineer
@@ -48,9 +46,16 @@ My work spans the full path from an ambiguous operational need to architecture, 
 
 ### Production integrations and automation
 
-I have delivered customer and e-commerce integrations between systems with and without public APIs, automated document and product-data workflows, and modernized legacy applications and deployment environments.
+I have delivered customer and e-commerce integrations, automated data workflows, and custom business tools across Python, Django, PHP, JavaScript, SQL and Docker.
 
-The underlying production code is private, so the public portfolio presents these projects as anonymized case studies without exposing client data or proprietary implementation details.
+Selected private work is presented only as anonymized engineering evidence:
+
+- Multi-platform product catalog synchronization with modular adapters and taxonomy mapping
+- Retail loyalty integration combining an external API, application state, administration tools and digital-wallet passes
+- Public-record extraction with browser automation, structured CSV export and data checks
+- A CMS-embedded business calculator spanning PHP integration and a compiled JavaScript/SCSS interface
+
+Repository names, source code, clients, vendors and confidential implementation details remain private.
 
 [Read the case studies →](https://dymirt.github.io/Dymirt/#work)
 
