@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dmytro Kolida — Solutions &amp; Integration Engineer. Production integrations, process automation, legacy modernization, and reliable systems.">
+  <meta name="theme-color" content="#0b0e13">
+  <meta property="og:title" content="Dmytro Kolida — Solutions &amp; Integration Engineer">
+  <meta property="og:description" content="I turn fragmented business processes and legacy systems into reliable production integrations.">
+  <meta property="og:image" content="assets/dmytro-kolida.jpg">
+  <meta property="og:type" content="website">
+  <title>Dmytro Kolida — Solutions &amp; Integration Engineer</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="tailwind.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-ink text-paper antialiased selection:bg-acid selection:text-ink">
+  <a href="#main" class="skip-link" data-i18n="skip">Skip to content</a>
+
+  <header class="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-ink/85 backdrop-blur-xl">
+    <nav class="mx-auto flex h-20 max-w-page items-center justify-between px-5 sm:px-8 lg:px-12" aria-label="Main navigation">
+      <a href="#top" class="group flex items-center gap-3" aria-label="Dmytro Kolida, home">
+        <span class="grid h-9 w-9 place-items-center rounded-full bg-acid font-mono text-xs font-bold text-ink transition-transform group-hover:rotate-12">DK</span>
+        <span class="hidden text-sm font-semibold tracking-tight sm:block">Dmytro Kolida</span>
+      </a>
+
+      <div class="hidden items-center gap-8 text-sm text-fog md:flex">
+        <a class="nav-link" href="#expertise" data-i18n="navExpertise">Expertise</a>
+        <a class="nav-link" href="#work" data-i18n="navWork">Selected work</a>
+        <a class="nav-link" href="#about" data-i18n="navAbout">About</a>
+        <a class="nav-link" href="#contact" data-i18n="navContact">Contact</a>
+      </div>
+
+      <div class="flex items-center gap-3">
+        <button id="languageToggle" class="language-toggle" type="button" aria-label="Switch to Polish" title="Switch to Polish">
+          <span class="language-current">EN</span><span class="language-separator">/</span><span class="language-next">PL</span>
+        </button>
+        <span class="hidden items-center gap-2 rounded-full border border-white/10 px-3 py-1.5 font-mono text-[11px] uppercase tracking-wider text-fog lg:flex">
+          <span class="h-2 w-2 animate-pulse rounded-full bg-acid"></span> <span data-i18n="availability">Open to opportunities</span>
+        </span>
+        <button id="menuButton" class="grid h-10 w-10 place-items-center rounded-full border border-white/15 md:hidden" aria-expanded="false" aria-controls="mobileMenu" aria-label="Open menu">
+          <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        </button>
+      </div>
+    </nav>
+    <div id="mobileMenu" class="hidden border-t border-white/10 bg-ink px-5 py-5 md:hidden">
+      <div class="flex flex-col gap-4 text-lg">
+        <a href="#expertise" data-i18n="navExpertise">Expertise</a><a href="#work" data-i18n="navWork">Selected work</a><a href="#about" data-i18n="navAbout">About</a><a href="#contact" data-i18n="navContact">Contact</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section id="top" class="relative min-h-screen overflow-hidden pt-20">
+      <div class="grid-overlay absolute inset-0 opacity-30"></div>
+      <div class="glow absolute -right-32 top-20 h-[38rem] w-[38rem] rounded-full"></div>
+      <div class="relative mx-auto grid min-h-[calc(100vh-5rem)] max-w-page items-center gap-12 px-5 py-14 sm:px-8 lg:grid-cols-[.68fr_1.32fr] lg:px-12 lg:py-20">
+        <aside class="reveal relative mx-auto w-full max-w-md lg:mx-0" style="--delay: 80ms">
+          <div class="portrait-frame relative overflow-hidden rounded-[2rem] border border-white/10 bg-white/5 p-2">
+            <img src="assets/dmytro-kolida.jpg" alt="Portrait of Dmytro Kolida" data-i18n-alt="portraitAlt" width="460" height="460" class="aspect-square w-full rounded-[1.55rem] object-cover">
+            <div class="absolute bottom-5 left-5 right-5 rounded-2xl border border-white/15 bg-ink/90 p-4 text-paper backdrop-blur-lg">
+              <p class="font-mono text-[10px] uppercase tracking-[0.18em] text-white/60" data-i18n="location">Based near Warsaw, Poland</p>
+              <p class="mt-1 text-sm font-medium" data-i18n="context">Engineering + operations + business context</p>
+            </div>
+          </div>
+          <div class="absolute -right-5 -top-6 hidden rounded-2xl border border-acid/25 bg-ink px-4 py-3 font-mono text-[11px] text-acid shadow-xl sm:block">
+            <span data-i18n="ownership">OWNERSHIP: END → END</span>
+          </div>
+        </aside>
+
+        <div class="reveal lg:pl-8" style="--delay: 160ms">
+          <p class="mb-6 flex items-center gap-3 font-mono text-xs uppercase tracking-[0.2em] text-mint">
+            <span class="h-px w-10 bg-mint"></span> <span data-i18n="role">Solutions &amp; Integration Engineer</span>
+          </p>
+          <h1 class="max-w-5xl text-[clamp(3.5rem,7.4vw,8rem)] font-semibold leading-[0.86] tracking-[-0.075em]">
+            <span data-i18n-html="heroTitle">Systems that<br><span class="text-acid">work in reality.</span></span>
+          </h1>
+          <p class="mt-8 max-w-2xl text-lg leading-relaxed text-fog sm:text-xl">
+            <span data-i18n="heroDescription">I turn fragmented processes and legacy systems into reliable production integrations — connecting applications, data, infrastructure, and business operations.</span>
+          </p>
+          <div class="mt-9 flex flex-wrap gap-3">
+            <a href="#work" class="button-primary"><span data-i18n="exploreWork">Explore selected work</span> <span aria-hidden="true">↘</span></a>
+            <a href="mailto:dmytrokolida@gmail.com" class="button-secondary" data-i18n="startConversation">Start a conversation</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="border-y border-white/10 bg-white/[0.025]">
+      <div class="mx-auto grid max-w-page grid-cols-2 divide-x divide-white/10 px-5 sm:px-8 lg:grid-cols-4 lg:px-12">
+        <div class="metric reveal"><strong>Python / PHP</strong><span data-i18n="metricBackend">Backend systems</span></div>
+        <div class="metric reveal" style="--delay: 80ms"><strong>Linux / Docker</strong><span data-i18n="metricProduction">Production operations</span></div>
+        <div class="metric reveal" style="--delay: 160ms"><strong>APIs / SQL</strong><span data-i18n="metricIntegration">Integration &amp; data</span></div>
+        <div class="metric reveal" style="--delay: 240ms"><strong data-i18n="nineYears">9 years</strong><span data-i18n="metricOwnership">E-commerce ownership</span></div>
+      </div>
+    </section>
+
+    <section id="expertise" class="section-shell">
+      <div class="section-heading reveal">
+        <p class="eyebrow" data-i18n="expertiseEyebrow">01 / Expertise</p>
+        <h2 data-i18n="expertiseTitle">One engineer across the whole system.</h2>
+        <p data-i18n="expertiseIntro">From a vague operational need to architecture, implementation, deployment, and incident resolution.</p>
+      </div>
+
+      <div class="mt-14 grid gap-px overflow-hidden rounded-3xl border border-white/10 bg-white/10 lg:grid-cols-3">
+        <article class="expertise-card reveal">
+          <span class="card-number">01</span>
+          <svg class="card-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><rect x="5" y="9" width="38" height="30" rx="4"/><path d="m13 20 6 5-6 5M24 30h11"/></svg>
+          <h3 data-i18n="expertise1Title">Integration engineering</h3>
+          <p data-i18n="expertise1Text">Reliable connections between APIs, databases, files, marketplaces, and systems without a clean public interface.</p>
+          <ul><li data-i18n="expertise1Item1">REST APIs &amp; webhooks</li><li data-i18n="expertise1Item2">Data mapping &amp; SQL</li><li data-i18n="expertise1Item3">Retries, validation &amp; idempotency</li></ul>
+        </article>
+        <article class="expertise-card reveal" style="--delay: 100ms">
+          <span class="card-number">02</span>
+          <svg class="card-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M9 15h30M9 24h30M9 33h30"/><circle cx="15" cy="15" r="2"/><circle cx="33" cy="24" r="2"/><circle cx="20" cy="33" r="2"/></svg>
+          <h3 data-i18n="expertise2Title">Production systems</h3>
+          <p data-i18n="expertise2Text">Hands-on ownership across application code, containers, operating systems, databases, networks, and failures.</p>
+          <ul><li>Linux, Docker &amp; Proxmox</li><li data-i18n="expertise2Item2">Monitoring &amp; troubleshooting</li><li data-i18n="expertise2Item3">Deployments, backups &amp; security</li></ul>
+        </article>
+        <article class="expertise-card reveal" style="--delay: 200ms">
+          <span class="card-number">03</span>
+          <svg class="card-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M8 35V15l8-5 8 5 8-5 8 5v20l-8 5-8-5-8 5-8-5Z"/><path d="M16 10v25M24 15v25M32 10v25"/></svg>
+          <h3 data-i18n="expertise3Title">Automation &amp; modernization</h3>
+          <p data-i18n="expertise3Text">Replacing fragile manual work and legacy constraints with maintainable pipelines and controlled change.</p>
+          <ul><li data-i18n="expertise3Item1">Python process automation</li><li data-i18n="expertise3Item2">Legacy PHP modernization</li><li data-i18n="expertise3Item3">AI-enabled workflows</li></ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="work" class="section-shell border-t border-white/10">
+      <div class="section-heading reveal">
+        <p class="eyebrow" data-i18n="workEyebrow">02 / Selected work</p>
+        <h2 data-i18n="workTitle">Evidence over buzzwords.</h2>
+        <p data-i18n="workIntro">Public work and anonymized production case studies. Confidential metrics are deliberately left as placeholders until verified.</p>
+      </div>
+
+      <div class="mt-14 space-y-5">
+        <article class="case-study reveal">
+          <div class="case-index">CASE / 01</div>
+          <div>
+            <p class="case-kicker" data-i18n="case1Kicker">Production integration · Anonymized</p>
+            <h3 data-i18n="case1Title">Marketplace integration without a public API</h3>
+            <p data-i18n="case1Text">Designed a resilient synchronization workflow for product data across an e-commerce system and an external platform with session-based access and inconsistent attributes.</p>
+            <div class="tag-row"><span>Python</span><span data-i18n="tagSessions">HTTP sessions</span><span data-i18n="tagMapping">Data mapping</span><span data-i18n="tagRetries">Retries</span><span data-i18n="tagAudit">Audit logs</span></div>
+          </div>
+          <div class="case-result">
+            <p data-i18n="scaleResult">Scale &amp; result</p>
+            <strong data-i18n-html="case1Result">[N] products<br>[X] hours saved</strong>
+            <span data-i18n="replaceMetrics">Replace after verifying production data</span>
+          </div>
+        </article>
+
+        <article class="case-study reveal">
+          <div class="case-index">CASE / 02</div>
+          <div>
+            <p class="case-kicker" data-i18n="case2Kicker">Production automation · Anonymized</p>
+            <h3 data-i18n="case2Title">Document processing pipeline</h3>
+            <p data-i18n="case2Text">Automated document acquisition and processing with validation, error logging, and operational safeguards — reducing repetitive work while keeping exceptions visible.</p>
+            <div class="tag-row"><span>Python</span><span data-i18n="tagValidation">Validation</span><span data-i18n="tagScheduling">Scheduling</span><span data-i18n="tagObservability">Observability</span><span>Docker</span></div>
+          </div>
+          <div class="case-result">
+            <p data-i18n="monthlyImpact">Monthly impact</p>
+            <strong data-i18n-html="case2Result">[N] documents<br>[X]% less manual work</strong>
+            <span data-i18n="replaceMetrics">Replace after verifying production data</span>
+          </div>
+        </article>
+
+        <a href="https://github.com/Dymirt/hacknationAnomalie" target="_blank" rel="noreferrer" class="case-study public-project reveal group">
+          <div class="case-index">PUBLIC / 01</div>
+          <div>
+            <p class="case-kicker" data-i18n="publicKicker">Hackathon project · Open source</p>
+            <h3>HackNation Anomaly</h3>
+            <p data-i18n="publicText">A Python project developed in a time-boxed team environment, showing rapid problem framing, prototyping, and delivery.</p>
+            <div class="tag-row"><span>Python</span><span data-i18n="tagPrototyping">Rapid prototyping</span><span data-i18n="tagTeam">Team delivery</span></div>
+          </div>
+          <div class="case-result project-link"><strong data-i18n="viewGithub">View on GitHub</strong><span class="text-2xl transition-transform group-hover:-translate-y-1 group-hover:translate-x-1">↗</span></div>
+        </a>
+      </div>
+
+      <div class="achievement reveal mt-5">
+        <div class="achievement-mark">01</div>
+        <div><p class="case-kicker">ETHWarsaw 2024</p><h3 data-i18n="awardTitle">CoinSwipe — 1st place in the DragonSwap bounty</h3><p data-i18n="awardText">Recognized for turning an idea into a working technical solution under hackathon constraints.</p></div>
+        <span class="font-mono text-xs uppercase tracking-wider text-ink/70" data-i18n="awardedProject">Awarded project</span>
+      </div>
+    </section>
+
+    <section id="about" class="section-shell border-t border-white/10">
+      <div class="grid gap-14 lg:grid-cols-[.75fr_1.25fr]">
+        <div class="reveal">
+          <p class="eyebrow" data-i18n="aboutEyebrow">03 / About</p>
+          <h2 class="mt-5 text-4xl font-semibold tracking-[-0.045em] sm:text-5xl" data-i18n="aboutTitle">Technical judgment shaped by operating a real business.</h2>
+        </div>
+        <div class="reveal space-y-7 text-lg leading-relaxed text-fog" style="--delay: 120ms">
+          <p class="text-2xl leading-snug text-paper" data-i18n="aboutLead">I work where application code, infrastructure, imperfect data, and business reality meet.</p>
+          <p data-i18n="aboutText1">My engineering experience spans Python and PHP applications, APIs, SQL, Linux, Docker, production troubleshooting, and legacy modernization. Nine years of e-commerce ownership taught me to judge technology by operational cost, risk, and outcomes — not novelty.</p>
+          <p data-i18n="aboutText2">I’m at my best when the requirements are ambiguous, several systems have to cooperate, and someone needs to own the result after deployment.</p>
+          <div class="grid gap-4 pt-4 sm:grid-cols-2">
+            <div class="about-tile"><span data-i18n="howIWork">How I work</span><strong data-i18n="workProcess">Discover → design → deliver → operate</strong></div>
+            <div class="about-tile"><span data-i18n="currentFocus">Current focus</span><strong data-i18n="focusText">Reliable cloud integrations &amp; controlled AI automation</strong></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="toolkit-section border-y border-white/10 text-paper">
+      <div class="mx-auto max-w-page px-5 py-20 sm:px-8 lg:px-12 lg:py-28">
+        <div class="reveal grid gap-10 lg:grid-cols-[.75fr_1.25fr]">
+          <div>
+            <p class="font-mono text-xs font-bold uppercase tracking-[0.2em]" data-i18n="toolkitEyebrow">04 / Toolkit</p>
+            <h2 class="mt-5 text-4xl font-semibold tracking-[-0.045em] sm:text-5xl" data-i18n="toolkitTitle">Tools in service of outcomes.</h2>
+          </div>
+          <div class="tool-grid">
+            <div><span data-i18n="toolBuild">Build</span><p>Python · PHP · JavaScript · FastAPI · Django · Flask</p></div>
+            <div><span data-i18n="toolIntegrate">Integrate</span><p>REST APIs · Webhooks · SQL · ETL · CSV / JSON / XML</p></div>
+            <div><span data-i18n="toolOperate">Operate</span><p data-i18n="toolOperateList">Linux · Docker · Proxmox · CI/CD · Logging · Backups</p></div>
+            <div><span data-i18n="toolData">Data</span><p data-i18n="toolDataList">PostgreSQL · MySQL · Redis · Validation · Data mapping</p></div>
+            <div><span data-i18n="toolExpanding">Expanding</span><p>AWS · Terraform · Kubernetes · Observability · AI evals</p></div>
+            <div><span data-i18n="toolBusiness">Business</span><p data-i18n="toolBusinessList">Discovery · Architecture · E-commerce · Mentoring · Ownership</p></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="relative overflow-hidden px-5 py-24 sm:px-8 lg:px-12 lg:py-36">
+      <div class="glow absolute -left-52 bottom-0 h-[35rem] w-[35rem] rounded-full opacity-60"></div>
+      <div class="relative mx-auto max-w-page reveal">
+        <p class="eyebrow" data-i18n="contactEyebrow">05 / Contact</p>
+        <h2 class="mt-7 max-w-5xl text-[clamp(3.4rem,8vw,8rem)] font-semibold leading-[0.88] tracking-[-0.07em]" data-i18n="contactTitle">Have a difficult system to connect?</h2>
+        <div class="mt-10 flex flex-wrap items-center gap-4">
+          <a class="button-primary" href="mailto:dmytrokolida@gmail.com">dmytrokolida@gmail.com <span>↗</span></a>
+          <button id="copyEmail" class="button-secondary" type="button" data-i18n="copyEmail">Copy email</button>
+          <a class="button-secondary" href="https://github.com/Dymirt" target="_blank" rel="noreferrer">GitHub ↗</a>
+          <span class="placeholder-button" title="Add the final PDF file to assets/ and update this link" data-i18n="cvSoon" data-i18n-title="cvTitle">CV PDF — coming soon</span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="border-t border-white/10">
+    <div class="mx-auto flex max-w-page flex-col gap-3 px-5 py-8 text-xs text-fog sm:flex-row sm:items-center sm:justify-between sm:px-8 lg:px-12">
+      <p>© <span id="year"></span> Dmytro Kolida. <span data-i18n="footerText">Built for clarity, reliability, and the web.</span></p>
+      <a href="#top" class="font-mono uppercase tracking-wider hover:text-acid"><span data-i18n="backTop">Back to top</span> ↑</a>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" data-i18n="emailCopied">Email copied</div>
+  <script src="script.js"></script>
+</body>
+</html>

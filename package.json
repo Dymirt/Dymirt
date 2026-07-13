@@ -1,0 +1,13 @@
+{
+  "name": "dmytro-kolida-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub Pages portfolio for Dmytro Kolida",
+  "scripts": {
+    "build": "tailwindcss build -i ./tailwind.input.css -o ./tailwind.css --minify",
+    "watch": "tailwindcss build -i ./tailwind.input.css -o ./tailwind.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.17"
+  }
+}
