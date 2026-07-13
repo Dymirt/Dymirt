@@ -6,7 +6,7 @@
   **Production integrations · Process automation · Legacy modernization · Reliable systems**
 
   <p>
-    <a href="https://dymirt.github.io/Dymirt/">Portfolio</a>
+    <a href="https://dymirt.github.io/">Portfolio</a>
     &nbsp;·&nbsp;
     <a href="mailto:dmytrokolida@gmail.com">Email</a>
     &nbsp;·&nbsp;
@@ -57,7 +57,7 @@ Selected private work is presented only as anonymized engineering evidence:
 
 Repository names, source code, clients, vendors and confidential implementation details remain private.
 
-[Read the case studies →](https://dymirt.github.io/Dymirt/#work)
+[Read the case studies →](https://dymirt.github.io/#work)
 
 ### CoinSwipe · ETHWarsaw 2024
 
@@ -67,12 +67,12 @@ Repository names, source code, clients, vendors and confidential implementation 
 
 **3rd place.** An innovation-for-good project delivered with the Warsaw Moss team and recognized at HumanTech Hack 2024.
 
-[View the project](https://github.com/Dymirt/Warsaw_moss) · [View the diploma](assets/humantech-hack-2024-diploma.png)
+[View the project](https://github.com/Dymirt/Warsaw_moss) · [View the diploma](https://dymirt.github.io/assets/humantech-hack-2024-diploma.png)
 
 ### Certificates
 
-- [CS50x — Introduction to Computer Science](assets/certificates/cs50x-completion.pdf), Harvard University, 2021
-- [HackYeah 2024 — Certificate of Attendance](assets/certificates/hackyeah-2024-attendance.pdf), 33-hour hackathon, Kraków
+- [CS50x — Introduction to Computer Science](https://dymirt.github.io/assets/certificates/cs50x-completion.pdf), Harvard University, 2021
+- [HackYeah 2024 — Certificate of Attendance](https://dymirt.github.io/assets/certificates/hackyeah-2024-attendance.pdf), 33-hour hackathon, Kraków
 
 ### Public work
 
@@ -126,5 +126,5 @@ Discover → Design → Deliver → Operate → Improve
   <br /><br />
   <a href="mailto:dmytrokolida@gmail.com">dmytrokolida@gmail.com</a>
   &nbsp;·&nbsp;
-  <a href="https://dymirt.github.io/Dymirt/">English / Polish portfolio</a>
+  <a href="https://dymirt.github.io/">English / Polish portfolio</a>
 </div>
