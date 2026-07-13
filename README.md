@@ -1,33 +1,114 @@
-# Dmytro Kolida
+<div align="center">
+  <img src="./assets/dmytro-kolida.jpg" width="150" alt="Dmytro Kolida" />
 
-## Solutions & Integration Engineer
+  # Dmytro Kolida
 
-I design, integrate and operate production systems connecting applications,
-data, infrastructure and business processes.
+  ### Solutions & Integration Engineer
 
-### Core areas
+  **Production integrations · Process automation · Legacy modernization · Reliable systems**
 
-- Python and PHP backend development
-- REST APIs, webhooks and external system integrations
-- SQL, data transformation and automation pipelines
-- Linux, Docker and production troubleshooting
-- Legacy application modernization
-- E-commerce and marketplace integrations
-- Technical discovery and end-to-end solution ownership
+  <p>
+    <a href="https://dymirt.github.io/Dymirt/">Portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:dmytrokolida@gmail.com">Email</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/Dymirt?tab=repositories">Repositories</a>
+  </p>
+</div>
 
-### Selected work
+---
 
-- Customer and e-commerce integrations between systems with and without public APIs
-- Production automation for document and product data processing
-- Legacy PHP modernization and containerized deployments
-- CoinSwipe — 1st place in the DragonSwap bounty at ETHWarsaw 2024
+## I connect the parts others treat separately
 
-### Current focus
+I design, integrate and operate production systems that connect **applications, data, infrastructure and business processes**.
 
-Building reliable integration platforms with:
-Python, FastAPI, PostgreSQL, queues, Terraform, cloud infrastructure,
-observability and controlled AI automation.
+My work spans the full path from an ambiguous operational need to architecture, implementation, deployment, monitoring and incident resolution. I combine hands-on Python/PHP engineering with Linux/Docker operations and the commercial perspective developed through nine years of e-commerce ownership.
 
-### Contact
+> I turn fragmented processes and legacy systems into reliable production integrations—and stay responsible for what happens after deployment.
 
-dmytrokolida@gmail.com
+## What I bring
+
+| Integrate | Operate | Modernize |
+| :--- | :--- | :--- |
+| REST APIs and webhooks | Linux and Docker | Legacy PHP applications |
+| SQL and data mapping | Production troubleshooting | Python process automation |
+| External platforms | Logging and monitoring | Containerized deployments |
+| Systems without public APIs | Backups and reliability | Controlled AI workflows |
+
+### Core strengths
+
+- Translating unclear business requirements into practical technical solutions
+- Building integrations across APIs, databases, files and external platforms
+- Diagnosing failures across application, container, database, network and operating-system layers
+- Designing for validation, retries, idempotency, auditability and operational recovery
+- Evaluating technical decisions through cost, risk and measurable business outcomes
+- Owning delivery end to end—from discovery to stable production operation
+
+## Selected evidence
+
+### Production integrations and automation
+
+I have delivered customer and e-commerce integrations between systems with and without public APIs, automated document and product-data workflows, and modernized legacy applications and deployment environments.
+
+The underlying production code is private, so the public portfolio presents these projects as anonymized case studies without exposing client data or proprietary implementation details.
+
+[Read the case studies →](https://dymirt.github.io/Dymirt/#work)
+
+### CoinSwipe · ETHWarsaw 2024
+
+**1st place in the DragonSwap bounty.** A working product delivered under hackathon constraints, demonstrating rapid problem framing, technical decision-making and team execution.
+
+### Public work
+
+- [HackNation Anomaly](https://github.com/Dymirt/hacknationAnomalie) — Python project built in a time-boxed team environment
+- [Warsaw Moss](https://github.com/Dymirt/Warsaw_moss) — TypeScript application and rapid product prototype
+- [Add Barcode to PDF](https://github.com/Dymirt/add_barcode_to_pdf) — focused Python document automation utility
+
+## Current engineering focus
+
+I am extending my integration and production background toward reliable cloud platforms and controlled AI automation:
+
+```text
+Python / FastAPI / PostgreSQL
+Queues / retries / idempotency
+AWS / Terraform / Kubernetes
+Observability / tracing / alerting
+LLM APIs / evaluations / human approval / audit logs
+```
+
+The goal is not to build another chatbot. It is to safely introduce AI into real business processes, connect it to existing systems, measure its quality and operate it reliably in production.
+
+## Working stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-121720?style=flat-square&logo=python&logoColor=d59a6a" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-121720?style=flat-square&logo=php&logoColor=d59a6a" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-121720?style=flat-square&logo=fastapi&logoColor=d59a6a" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-121720?style=flat-square&logo=django&logoColor=d59a6a" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-121720?style=flat-square&logo=postgresql&logoColor=d59a6a" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-121720?style=flat-square&logo=linux&logoColor=d59a6a" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-121720?style=flat-square&logo=docker&logoColor=d59a6a" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/CI%2FCD-121720?style=flat-square&logo=githubactions&logoColor=d59a6a" />
+</p>
+
+## How I approach systems
+
+```text
+Discover → Design → Deliver → Operate → Improve
+```
+
+- Reliability is part of the architecture, not a task added before launch.
+- Integration work includes failure paths, reconciliation and recovery.
+- Automation should reduce operational risk, not hide it.
+- Technology is valuable when it improves the business outcome.
+- Production ownership continues after the deployment succeeds.
+
+---
+
+<div align="center">
+  <strong>Have a difficult system to connect or modernize?</strong>
+  <br /><br />
+  <a href="mailto:dmytrokolida@gmail.com">dmytrokolida@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://dymirt.github.io/Dymirt/">English / Polish portfolio</a>
+</div>
