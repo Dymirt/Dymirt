@@ -67,11 +67,6 @@ Repository names, source code, clients, vendors and confidential implementation 
 
 [View the project](https://github.com/Dymirt/Warsaw_moss) · [View the diploma](https://dymirt.github.io/assets/humantech-hack-2024-diploma.png)
 
-### Certificates
-
-- [CS50x — Introduction to Computer Science](https://dymirt.github.io/assets/certificates/cs50x-completion.pdf), Harvard University, 2021
-- [HackYeah 2024 — Certificate of Attendance](https://dymirt.github.io/assets/certificates/hackyeah-2024-attendance.pdf), 33-hour hackathon, Kraków
-
 ### Public work
 
 - [HackNation Anomaly](https://github.com/Dymirt/hacknationAnomalie) — Python project built in a time-boxed team environment
@@ -116,6 +111,11 @@ Discover → Design → Deliver → Operate → Improve
 - Automation should reduce operational risk, not hide it.
 - Technology is valuable when it improves the business outcome.
 - Production ownership continues after the deployment succeeds.
+
+## Education
+
+- 42 Warsaw — Software Engineering, 2023–2025
+- CS50x — Introduction to Computer Science, 2021
 
 ---
 
