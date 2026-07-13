@@ -61,6 +61,8 @@ Repository names, source code, clients, vendors and confidential implementation 
 
 **1st place in the DragonSwap bounty.** A working product delivered under hackathon constraints, demonstrating rapid problem framing, technical decision-making and team execution.
 
+[Recognition by 42 Warsaw →](https://www.linkedin.com/posts/42-warsaw_42codingschool-programmers-hackathon-activity-7243908980966649856-QVoL)
+
 ### Warsaw Moss · HumanTech Hack 2024
 
 **3rd place.** An innovation-for-good project delivered with the Warsaw Moss team and recognized at HumanTech Hack 2024.
