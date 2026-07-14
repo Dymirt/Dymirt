@@ -6,6 +6,8 @@
   <p>
     <a href="https://dymirt.github.io/">Portfolio</a>
     &nbsp;·&nbsp;
+    <a href="https://dymirt.github.io/assets/dmytro-kolida-cv-pl-2026.pdf">CV (PL)</a>
+    &nbsp;·&nbsp;
     <a href="mailto:dmytrokolida@gmail.com">Email</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/Dymirt?tab=repositories">Repositories</a>
@@ -28,8 +30,7 @@ My work spans the full path from an ambiguous operational need to architecture, 
 | :--- | :--- | :--- |
 | REST APIs and webhooks | Linux and Docker | Legacy PHP applications |
 | SQL and data mapping | Production troubleshooting | Python process automation |
-| External platforms | Logging and monitoring | Containerized deployments |
-| Systems without public APIs | Backups and reliability | Controlled AI workflows |
+| External platforms<br>Systems without public APIs | Logging and monitoring<br>Backups and reliability | Containerized deployments |
 
 ### Core strengths
 
