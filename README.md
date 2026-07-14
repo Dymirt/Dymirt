@@ -64,16 +64,16 @@ Repository names, source code, clients, vendors and confidential implementation 
 
 [Recognition by 42 Warsaw →](https://www.linkedin.com/posts/42-warsaw_42codingschool-programmers-hackathon-activity-7243908980966649856-QVoL)
 
-### Warsaw Moss · HumanTech Hack 2024
+### Eco Navigate · HumanTech Hack 2024
 
 **3rd place.** An innovation-for-good project delivered with the Warsaw Moss team and recognized at HumanTech Hack 2024.
 
-[View the project](https://github.com/Dymirt/Warsaw_moss) · [View the diploma](https://dymirt.github.io/assets/humantech-hack-2024-diploma.png)
+[View the project](https://warsaw-moss.vercel.app) · [View the diploma](https://dymirt.github.io/assets/humantech-hack-2024-diploma.png)
 
 ### Public work
 
 - [HackNation Anomaly](https://github.com/Dymirt/hacknationAnomalie) — Python project built in a time-boxed team environment
-- [Warsaw Moss](https://github.com/Dymirt/Warsaw_moss) — TypeScript application and rapid product prototype
+- [Eco Navigate](https://warsaw-moss.vercel.app) — TypeScript application and rapid product prototype delivered by team Warsaw Moss
 - [Add Barcode to PDF](https://github.com/Dymirt/add_barcode_to_pdf) — focused Python document automation utility
 
 ## Current engineering focus
