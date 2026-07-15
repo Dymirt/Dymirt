@@ -1,5 +1,5 @@
 <div align="center">
-  ### Solutions & Integration Engineer
+ <h3>Solutions & Integration Engineer</h3>
 
   **Production integrations · Process automation · Legacy modernization · Reliable systems**
 
