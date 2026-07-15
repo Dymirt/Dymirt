@@ -43,6 +43,17 @@ My work spans the full path from an ambiguous operational need to architecture, 
 
 ## Selected evidence
 
+### Production legacy modernization
+
+Over 15 months of sustained ownership, I modernized and operated a production PHP platform spanning 2,184 tracked files, including 883 PHP files.
+
+- Reduced the tracked repository footprint by 36.3% and the PHP file count by 26.9%, while adding regression tests and modern service boundaries
+- Introduced authenticated FastAPI integration services and a four-service Docker environment
+- Added eight database migrations and automated deployments to two infrastructure environments
+- Established a verified regression suite of 396 PHPUnit tests and 1,108 assertions, with zero failures in a clean run
+
+Repository history records 550 authored commits across 131 active development days. One credential-dependent integration test was skipped; the figures were verified from repository history and a clean July 2026 test run. Identifying business details remain private.
+
 ### Production integrations and automation
 
 I have delivered customer and e-commerce integrations, automated data workflows, and custom business tools across Python, Django, PHP, JavaScript, SQL and Docker.
