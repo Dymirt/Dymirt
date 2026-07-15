@@ -81,7 +81,7 @@ Production throughput and time-saved figures are intentionally omitted until the
 - Status checks and safe handling of invoices that were already submitted, integrated into the existing interface
 - Four focused payment-semantics tests, in addition to the PHP regression suite
 
-### Personalized loyalty cards for Marta Banaszek Atelier Café
+### Personalized loyalty cards for a café
 
 **Before:** customer and loyalty data stayed in the Dotykačka point-of-sale system, without a personalized card customers could keep on their phones.
 
