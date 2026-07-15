@@ -103,23 +103,6 @@ The goal is not to build another chatbot. It is to safely introduce AI into real
   <img alt="GitHub Actions" src="https://img.shields.io/badge/CI%2FCD-121720?style=flat-square&logo=githubactions&logoColor=d59a6a" />
 </p>
 
-## How I approach systems
-
-```text
-Discover → Design → Deliver → Operate → Improve
-```
-
-- Reliability is part of the architecture, not a task added before launch.
-- Integration work includes failure paths, reconciliation and recovery.
-- Automation should reduce operational risk, not hide it.
-- Technology is valuable when it improves the business outcome.
-- Production ownership continues after the deployment succeeds.
-
-## Education
-
-- 42 Warsaw — Software Engineering, 2023–2025
-- CS50x — Introduction to Computer Science, 2021
-
 ---
 
 <div align="center">
