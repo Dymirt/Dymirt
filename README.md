@@ -16,36 +16,38 @@
 
 ---
 
-## I connect the parts others treat separately
+## I make business systems work together
 
-I design, integrate and operate production systems that connect **applications, data, infrastructure and business processes**.
+I connect **applications, spreadsheets, databases and external services** so people spend less time copying data or fixing broken hand-offs.
 
-My work spans the full path from an ambiguous operational need to architecture, implementation, deployment, monitoring and incident resolution. I combine hands-on Python/PHP engineering with Linux/Docker operations and the commercial perspective developed through nearly nine years of e-commerce ownership.
+I can take the work from understanding the business problem through design, implementation and deployment to production support. My background combines Python/PHP engineering, Linux/Docker operations and nearly nine years of running an e-commerce business.
 
-> I turn fragmented processes and legacy systems into reliable production integrations—and stay responsible for what happens after deployment.
+> You explain what needs to work. I build the connection, put it into production and remain responsible when something fails.
 
 ## What I bring
 
 | Integrate | Operate | Modernize |
 | :--- | :--- | :--- |
-| REST APIs and webhooks | Linux and Docker | Legacy PHP applications |
-| SQL and data mapping | Production troubleshooting | Python process automation |
-| External platforms<br>Systems without public APIs | Logging and monitoring<br>Backups and reliability | Containerized deployments |
+| APIs and webhooks | Linux and Docker | Older PHP systems |
+| SQL and spreadsheet imports | Finding production problems | Automating manual work with Python |
+| External services<br>Older systems without ready connectors | Monitoring and backups | Repeatable deployments |
 
 ### Core strengths
 
-- Translating unclear business requirements into practical technical solutions
-- Building integrations across APIs, databases, files and external platforms
-- Diagnosing failures across application, container, database, network and operating-system layers
-- Designing for validation, retries, idempotency, auditability and operational recovery
-- Evaluating technical decisions through cost, risk and measurable business outcomes
-- Owning delivery end to end—from discovery to stable production operation
+- Turning an unclear business need into a working technical solution
+- Connecting APIs, databases, spreadsheets and external services
+- Finding the cause of failures across the application, container, database, server and network
+- Adding validation, logs, safe retries and a clear way to recover from errors
+- Judging technology by time saved, risk reduced and reliability—not novelty
+- Owning delivery from the first discussion through production support
 
 ## Selected evidence
 
-### Risk-first legacy platform modernization
+### Making a critical legacy system safer to change
 
-Over 15 months of sustained ownership, I modernized and operated a production PHP platform while first turning its implicit behavior into traceable engineering evidence.
+**Before:** important business rules were spread across old PHP code, database rules and scheduled jobs, so a small change could break another process.
+
+**After:** I mapped the risky parts, removed obsolete files and added automated tests, repeatable database changes, Docker services and separate deployment environments. Changes can now be checked before release, and the system can be improved step by step instead of rewritten all at once.
 
 - Mapped 856 PHP files and classified 187 data-writing paths before changing high-risk business flows
 - Reduced the tracked repository footprint from 3,428 to 2,184 files (**−36.3%**) and the PHP file count from 1,208 to 883 (**−26.9%**)
@@ -55,53 +57,58 @@ Over 15 months of sustained ownership, I modernized and operated a production PH
 
 The published branch history contains 550 authored commits across 131 active delivery days. One credential-dependent integration test was skipped. The figures come from repository history and a clean July 2026 verification run; identifying business details remain private.
 
-### Recoverable data onboarding and identity resolution
+### Different client spreadsheets, one importer
 
-The source problem was operational rather than cosmetic: customer and claim files arrived in inconsistent layouts, while external registries could return several plausible identities.
+**Before:** every company sent CSV, XLS or XLSX files with different columns and layouts. A new layout could stop the import and require a programmer to change the code.
 
-- Built one intake path for **CSV, XLS and XLSX**, with four CSV delimiter variants and a **59-field canonical data model**
-- Added editable mapping, validation, background row processing, per-row transactions, progress/error logs and stop/resume controls
-- Integrated registry enrichment while requiring explicit human confirmation before an uncertain identity match is committed
-- Protected matching with a **238-case regression fixture** and the duplicate-resolution workflow with **25 focused tests**, stale-preview detection, database locks and before/after audit data
+**After:** I built one process that maps each file into a common structure and lets an operator correct the mapping. A bad row is logged instead of stopping the whole file, and the job can be stopped and resumed. New client layouts can be configured without rebuilding the importer.
 
-The technical result is a recoverable, auditable workflow in which different source layouts enter one model and ambiguous identity decisions remain controlled. Production throughput and time-saved figures are intentionally omitted until they can be confirmed from telemetry.
+- Built one intake path for **CSV, XLS and XLSX**, with four CSV separator variants and a **common 59-field data format**
+- Added editable column mapping, row-by-row validation, progress and error logs, and stop/resume controls
+- Integrated company-registry checks; AI can suggest an uncertain match, but a person must approve it before sensitive data is saved
+- Checked company matching against **238 examples** and covered duplicate merging with **25 focused tests**, protection against stale decisions and before/after history
 
-### Regulated e-invoicing integration
+Production throughput and time-saved figures are intentionally omitted until they can be confirmed from telemetry.
 
-I isolated a modern external invoicing protocol from a legacy PHP operator workflow through a containerized FastAPI bridge.
+### Connecting KSeF to a legacy invoicing system
+
+**Before:** the legacy PHP system could not communicate directly with Poland's National e-Invoice System (KSeF), which requires newer authentication and invoice formats.
+
+**After:** I added a separate Python service that converts invoice data to FA(3) XML, authenticates with KSeF, sends invoices, checks their status and finds an invoice submitted earlier. The old system can use KSeF without a risky rewrite of the whole application.
 
 - Four API endpoints covering health, authentication, invoice submission and existing-invoice lookup
 - Typed request contracts and FA(3) XML generation with payment and monetary rules
-- Explicit status handling and duplicate-invoice recovery integrated back into the existing interface
+- Status checks and safe handling of invoices that were already submitted, integrated into the existing interface
 - Four focused payment-semantics tests, in addition to the PHP regression suite
 
-### Other production integrations and automation
+### Personalized loyalty cards for Marta Banaszek Atelier Café
 
-Additional private work includes multi-platform catalog synchronization, retail loyalty and digital-wallet integration, public-record extraction, and a CMS-embedded business calculator. These summaries remain anonymized: repository names, source code, clients, vendors and confidential implementation details are not exposed.
+**Before:** customer and loyalty data stayed in the Dotykačka point-of-sale system, without a personalized card customers could keep on their phones.
+
+**After:** I connected Dotykačka to a Django application that creates a personal loyalty card for Apple Wallet or Google Wallet and gives staff one place to manage the program. Private source code and customer data remain private.
 
 [Read the case studies →](https://dymirt.github.io/#work)
 
 ### CoinSwipe · ETHWarsaw 2024
 
-**1st place in the DragonSwap bounty.** A working product delivered under hackathon constraints, demonstrating rapid problem framing, technical decision-making and team execution.
+**1st place in the DragonSwap bounty.** CoinSwipe is a Telegram app that combines discovering memecoins, trading them and meeting people interested in the same coins. I built it with my team during ETHWarsaw 2024, and 42 Warsaw later featured the project.
 
 [Recognition by 42 Warsaw →](https://www.linkedin.com/posts/42-warsaw_42codingschool-programmers-hackathon-activity-7243908980966649856-QVoL)
 
 ### Eco Navigate · HumanTech Hack 2024
 
-**3rd place.** An innovation-for-good project delivered with the Warsaw Moss team and recognized at HumanTech Hack 2024.
+**3rd place.** Eco Navigate compares walking and cycling routes through Warsaw using data about nearby trees, parks and other green areas. It recommends a greener option while showing the distance, time and extra detour, and also displays live air-quality stations.
 
 [View the project](https://warsaw-moss.vercel.app) · [View the diploma](https://dymirt.github.io/assets/humantech-hack-2024-diploma.png)
 
 ### Public work
 
-- [HackNation Anomaly](https://github.com/Dymirt/hacknationAnomalie) — Python project built in a time-boxed team environment
-- [Eco Navigate](https://warsaw-moss.vercel.app) — TypeScript application and rapid product prototype delivered by team Warsaw Moss
+- [Eco Navigate](https://warsaw-moss.vercel.app) — greener walking and cycling routes through Warsaw, built by team Warsaw Moss
 - [Add Barcode to PDF](https://github.com/Dymirt/add_barcode_to_pdf) — focused Python document automation utility
 
 ## Current engineering focus
 
-I am extending my integration and production background toward reliable cloud platforms and controlled AI automation:
+I am extending my integration and production background toward reliable cloud platforms and carefully controlled AI assistance. For sensitive operations, AI can prepare a suggestion, but a person reviews and approves it before anything is sent or important data is changed.
 
 ```text
 Python / FastAPI / PostgreSQL
@@ -111,7 +118,7 @@ Observability / tracing / alerting
 LLM APIs / evaluations / human approval / audit logs
 ```
 
-The goal is not to build another chatbot. It is to safely introduce AI into real business processes, connect it to existing systems, measure its quality and operate it reliably in production.
+The goal is not to build another chatbot. It is to use AI where it genuinely helps, keep people in control of sensitive decisions and measure whether the result is reliable.
 
 ## Working stack
 
