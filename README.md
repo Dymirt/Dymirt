@@ -43,29 +43,41 @@ My work spans the full path from an ambiguous operational need to architecture, 
 
 ## Selected evidence
 
-### Production legacy modernization
+### Risk-first legacy platform modernization
 
-Over 15 months of sustained ownership, I modernized and operated a production PHP platform spanning 2,184 tracked files, including 883 PHP files.
+Over 15 months of sustained ownership, I modernized and operated a production PHP platform while first turning its implicit behavior into traceable engineering evidence.
 
-- Reduced the tracked repository footprint by 36.3% and the PHP file count by 26.9%, while adding regression tests and modern service boundaries
-- Introduced authenticated FastAPI integration services and a four-service Docker environment
-- Added eight database migrations and automated deployments to two infrastructure environments
-- Established a verified regression suite of 396 PHPUnit tests and 1,108 assertions, with zero failures in a clean run
+- Mapped 856 PHP files and classified 187 data-writing paths before changing high-risk business flows
+- Reduced the tracked repository footprint from 3,428 to 2,184 files (**−36.3%**) and the PHP file count from 1,208 to 883 (**−26.9%**)
+- Built the regression suite from no PHPUnit coverage to **396 tests and 1,108 assertions**, verified with zero failures in a clean run
+- Introduced a four-service local Docker topology and a three-service deployment stack, separating the legacy application from Python integration boundaries
+- Configured branch-based GitHub Actions delivery for two environments and added **29 documented versions** with eight versioned SQL migrations
 
-Repository history records 550 authored commits across 131 active development days. One credential-dependent integration test was skipped; the figures were verified from repository history and a clean July 2026 test run. Identifying business details remain private.
+The published branch history contains 550 authored commits across 131 active delivery days. One credential-dependent integration test was skipped. The figures come from repository history and a clean July 2026 verification run; identifying business details remain private.
 
-### Production integrations and automation
+### Recoverable data onboarding and identity resolution
 
-I have delivered customer and e-commerce integrations, automated data workflows, and custom business tools across Python, Django, PHP, JavaScript, SQL and Docker.
+The source problem was operational rather than cosmetic: customer and claim files arrived in inconsistent layouts, while external registries could return several plausible identities.
 
-Selected private work is presented only as anonymized engineering evidence:
+- Built one intake path for **CSV, XLS and XLSX**, with four CSV delimiter variants and a **59-field canonical data model**
+- Added editable mapping, validation, background row processing, per-row transactions, progress/error logs and stop/resume controls
+- Integrated registry enrichment while requiring explicit human confirmation before an uncertain identity match is committed
+- Protected matching with a **238-case regression fixture** and the duplicate-resolution workflow with **25 focused tests**, stale-preview detection, database locks and before/after audit data
 
-- Multi-platform product catalog synchronization with modular adapters and taxonomy mapping
-- Retail loyalty integration combining an external API, application state, administration tools and digital-wallet passes
-- Public-record extraction with browser automation, structured CSV export and data checks
-- A CMS-embedded business calculator spanning PHP integration and a compiled JavaScript/SCSS interface
+The technical result is a recoverable, auditable workflow in which different source layouts enter one model and ambiguous identity decisions remain controlled. Production throughput and time-saved figures are intentionally omitted until they can be confirmed from telemetry.
 
-Repository names, source code, clients, vendors and confidential implementation details remain private.
+### Regulated e-invoicing integration
+
+I isolated a modern external invoicing protocol from a legacy PHP operator workflow through a containerized FastAPI bridge.
+
+- Four API endpoints covering health, authentication, invoice submission and existing-invoice lookup
+- Typed request contracts and FA(3) XML generation with payment and monetary rules
+- Explicit status handling and duplicate-invoice recovery integrated back into the existing interface
+- Four focused payment-semantics tests, in addition to the PHP regression suite
+
+### Other production integrations and automation
+
+Additional private work includes multi-platform catalog synchronization, retail loyalty and digital-wallet integration, public-record extraction, and a CMS-embedded business calculator. These summaries remain anonymized: repository names, source code, clients, vendors and confidential implementation details are not exposed.
 
 [Read the case studies →](https://dymirt.github.io/#work)
 
