@@ -83,18 +83,18 @@ Production throughput and time-saved figures are intentionally omitted until the
 - Status checks and safe handling of invoices that were already submitted, integrated into the existing interface
 - Four focused payment-semantics tests, in addition to the PHP regression suite
 
-### Rebuilding a loyalty-card system for more businesses
+### A loyalty-card platform designed and built from scratch
 
-**Before:** the first version served one business. Customer registration, physical-card inventory, branding and external integrations shared one setup, so adding another business would have required custom code and could have mixed settings or data.
+**Before:** I designed and wrote the first version from scratch for one business. It handled customer registration, physical cards, Dotykačka customer synchronization, Wallet cards and email, but all customers, settings and integrations belonged to one setup.
 
-**After:** I rebuilt it as a Django platform that keeps every business separate. A customer scans a physical card; the system assigns it, records consent, synchronizes the customer with Dotykačka, prepares a personal Apple Wallet or Google Wallet card, updates Brevo and sends the card by email. Each business has separate branding, inventory, users and encrypted integration credentials. If an external service fails temporarily, background jobs can retry safely.
+**After:** I then developed it into a Django platform that keeps every business separate. A customer scans a physical card; the system assigns it, records consent, synchronizes the customer with Dotykačka, prepares a personal Apple Wallet or Google Wallet card, updates Brevo and sends the card by email. Each business has separate branding, inventory, users and encrypted integration credentials. If an external service fails temporarily, background jobs can retry safely.
 
-- Preserved all **267 customer records** and the complete inventory of **600 physical cards** during the conversion
+- Preserved all **267 customer records** and the complete inventory of **600 physical cards** while expanding the system into a platform
 - Added **228 automated tests**, with current CI covering SQLite and MariaDB 10.11
 - Added separate business data and configuration, retryable background work, health checks, verified backups and controlled deployments
 - Integrated Dotykačka customer synchronization, Apple Wallet, Google Wallet, Brevo and SMTP email
 
-The technical conversion is complete. Adding more businesses remains disabled until final human, provider and printing checks. The public repository contains source code, while customer data, credentials and generated Wallet cards remain private.
+The technical expansion into a platform is complete. Adding more businesses remains disabled until final human, provider and printing checks. The public repository contains source code, while customer data, credentials and generated Wallet cards remain private.
 
 [View the public source repository →](https://github.com/Dymirt/loyalty_cards)
 
