@@ -83,11 +83,20 @@ Production throughput and time-saved figures are intentionally omitted until the
 - Status checks and safe handling of invoices that were already submitted, integrated into the existing interface
 - Four focused payment-semantics tests, in addition to the PHP regression suite
 
-### Personalized loyalty cards for a café
+### Rebuilding a loyalty-card system for more businesses
 
-**Before:** customer and loyalty data stayed in the Dotykačka point-of-sale system, without a personalized card customers could keep on their phones.
+**Before:** the first version served one business. Customer registration, physical-card inventory, branding and external integrations shared one setup, so adding another business would have required custom code and could have mixed settings or data.
 
-**After:** I connected Dotykačka to a Django application that creates a personal loyalty card for Apple Wallet or Google Wallet and gives staff one place to manage the program. Private source code and customer data remain private.
+**After:** I rebuilt it as a Django platform that keeps every business separate. A customer scans a physical card; the system assigns it, records consent, synchronizes the customer with Dotykačka, prepares a personal Apple Wallet or Google Wallet card, updates Brevo and sends the card by email. Each business has separate branding, inventory, users and encrypted integration credentials. If an external service fails temporarily, background jobs can retry safely.
+
+- Preserved all **267 customer records** and the complete inventory of **600 physical cards** during the conversion
+- Added **228 automated tests**, with current CI covering SQLite and MariaDB 10.11
+- Added separate business data and configuration, retryable background work, health checks, verified backups and controlled deployments
+- Integrated Dotykačka customer synchronization, Apple Wallet, Google Wallet, Brevo and SMTP email
+
+The technical conversion is complete. Adding more businesses remains disabled until final human, provider and printing checks. The public repository contains source code, while customer data, credentials and generated Wallet cards remain private.
+
+[View the public source repository →](https://github.com/Dymirt/loyalty_cards)
 
 [Read the case studies →](https://dymirt.github.io/#work)
 
