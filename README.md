@@ -151,5 +151,5 @@ The goal is not to build another chatbot. It is to use AI where it genuinely hel
   <br /><br />
   <a href="mailto:dmytrokolida@gmail.com">dmytrokolida@gmail.com</a>
   &nbsp;·&nbsp;
-  <a href="https://dymirt.github.io/">English / Polish portfolio</a>
+  <a href="https://dymirt.github.io/">English / Polish / Italian portfolio</a>
 </div>
