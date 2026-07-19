@@ -6,6 +6,8 @@
   <p>
     <a href="https://dymirt.github.io/">Portfolio</a>
     &nbsp;·&nbsp;
+    <a href="https://dymirt.github.io/mentoring/">Mentoring &amp; advisory</a>
+    &nbsp;·&nbsp;
     <a href="https://dymirt.github.io/assets/dmytro-kolida-cv-pl-2026.pdf">CV (PL)</a>
     &nbsp;·&nbsp;
     <a href="mailto:dmytrokolida@gmail.com">Email</a>
