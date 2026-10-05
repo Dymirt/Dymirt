@@ -1,7 +1,7 @@
 <div align="center">
  <h2>Solutions & Integration Engineer</h2>
 
-  **Production integrations · Process automation · Legacy modernization · Reliable systems**
+  **Integration delivery · Business judgment · Technical mentoring · Reliable systems**
 
   <p>
     <a href="https://dymirt.github.io/">Portfolio</a>
@@ -18,21 +18,21 @@
 
 ---
 
-## I make business systems work together
+## I connect systems, business, and people
 
-I connect **applications, spreadsheets, databases and external services** so people spend less time copying data or fixing broken hand-offs.
+I turn unclear business needs into sound technical decisions and reliable production systems. I stay hands-on while helping other people understand the problem, compare options and move forward independently.
 
-I can take the work from understanding the business problem through design, implementation and deployment to production support. My background combines Python/PHP engineering, Linux/Docker operations and nearly nine years of running an e-commerce business.
+My work connects **applications, spreadsheets, databases and external services**, from discovery and design through implementation, deployment and production support. My background combines Python/PHP engineering, Linux/Docker operations and nearly nine years of running an e-commerce business.
 
-> You explain what needs to work. I build the connection, put it into production and remain responsible when something fails.
+> I stay close to the technical details, make trade-offs visible and help others own the next decision.
 
 ## What I bring
 
-| Integrate | Operate | Modernize |
+| Build and integrate | Decide with context | Enable others |
 | :--- | :--- | :--- |
-| APIs and webhooks | Linux and Docker | Older PHP systems |
-| SQL and spreadsheet imports | Finding production problems | Automating manual work with Python |
-| External services<br>Older systems without ready connectors | Monitoring and backups | Repeatable deployments |
+| APIs, data and external services | Cost, risk and business outcome | Clear technical reasoning |
+| Legacy modernization | Trade-offs and delivery priorities | Questions before answers |
+| Production support | Ownership from problem to operation | Knowledge others can use |
 
 ### Core strengths
 
@@ -42,6 +42,8 @@ I can take the work from understanding the business problem through design, impl
 - Adding validation, logs, safe retries and a clear way to recover from errors
 - Judging technology by time saved, risk reduced and reliability—not novelty
 - Owning delivery from the first discussion through production support
+- Making technical decisions understandable to business and engineering stakeholders
+- Helping people reason through blockers without taking ownership away from them
 
 ## Selected evidence
 
