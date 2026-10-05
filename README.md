@@ -6,7 +6,7 @@
   <p>
     <a href="https://dymirt.github.io/">Portfolio</a>
     &nbsp;·&nbsp;
-    <a href="https://dymirt.github.io/mentoring/">Mentoring &amp; advisory</a>
+    <a href="https://dymirt.github.io/mentoring/">Mentoring</a>
     &nbsp;·&nbsp;
     <a href="https://dymirt.github.io/assets/dmytro-kolida-cv-pl-2026.pdf">CV (PL)</a>
     &nbsp;·&nbsp;
@@ -116,6 +116,12 @@ The technical expansion into a platform is complete. Adding more businesses rema
 
 - [Eco Navigate](https://warsaw-moss.vercel.app) — greener walking and cycling routes through Warsaw, built by team Warsaw Moss
 - [Add Barcode to PDF](https://github.com/Dymirt/add_barcode_to_pdf) — focused Python document automation utility
+
+## Mentoring & community
+
+### HackYeah 2026 · Mentor & Defence judge
+
+At HackYeah 2026, I mentored participants and served as a judge in the Defence category. One of the teams I mentored later won the event's grand prize. I presented the Defence category award on stage on behalf of the jury. The team built the project and earned the result; my contribution was mentoring and evaluation.
 
 ## Current engineering focus
 
